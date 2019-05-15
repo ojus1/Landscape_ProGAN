@@ -1,10 +1,10 @@
 ### Generating Landscape Images from High resolution photos/paintings using ProGANs
 Original Paper by NVIDIA: https://arxiv.org/abs/1710.10196
 
-#Results
+# Results
 ![Generated image grid](./assets/sample_trained_depth6.png)
 
-#Usage
+# Usage
 Run gen_sample.py with arguments to generate samples
 
 Training GAN from scratch -> Edit pro_gan.py and DataHelper.py as needed
