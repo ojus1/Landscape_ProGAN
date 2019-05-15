@@ -2,7 +2,7 @@
 Original Paper by NVIDIA: https://arxiv.org/abs/1710.10196
 
 #Results
-[Generated image grid](./assets/sample_trained_depth6.png)
+![Generated image grid](./assets/sample_trained_depth6.png)
 
 #Usage
 Run gen_sample.py with arguments to generate samples
